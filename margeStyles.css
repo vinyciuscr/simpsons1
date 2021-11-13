@@ -1,0 +1,23 @@
+#img1{
+    float: left;
+    height: 20%;
+    width: 50%;
+}
+#img2{
+    height: 30%;
+    width: 39%;
+    float: right;
+}
+h3{
+    color:#ffee05;
+}
+p{
+    text-align: justify;
+    display: flex;
+}
+#videoMarge{
+    border-radius: 10px;
+}
+#h3video{
+    float: left;
+}
